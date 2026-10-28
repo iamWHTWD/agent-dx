@@ -1,0 +1,30 @@
+platform/adxlet/src/lib.rs
+  h_e96096da8bf6f9 75-81,84-88
+platform/adxlet/src/runtime_router.rs
+  h_e96096da8bf6f9 79-84
+platform/adxlet/src/sandboxd.rs
+  h_e96096da8bf6f9 61,66-94,190-196,208,1119-1122,1644-1684
+platform/adxlet/src/upgrade.rs
+  h_e96096da8bf6f9 673,675-678
+platform/adxlet/tests/sandboxd_rpc.rs
+  h_e96096da8bf6f9 1949-2009
+platform/api/http/node-upgrades.md
+  h_e96096da8bf6f9 90-99,176-179
+platform/api/proto/environment.proto
+  h_e96096da8bf6f9 220-222
+platform/coordinator/src/rpc/upgrade.rs
+  h_e96096da8bf6f9 70-71,253,461-462,1333-1358,1419-1421,1461-1463,1807-1844
+platform/coordinator/src/rpc/upgrade/tests.rs
+  h_e96096da8bf6f9 28,50-51,196,394-395,1905-1984
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a1ff952a43db3c3e88b648bb9f651154477e7d09",
+  "prompts": {},
+  "humans": {
+    "h_e96096da8bf6f9": {
+      "author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
