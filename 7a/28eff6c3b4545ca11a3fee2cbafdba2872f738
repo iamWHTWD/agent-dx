@@ -1,0 +1,52 @@
+gateway/README.md
+  h_e96096da8bf6f9 98-102,108-115
+gateway/src/config.rs
+  h_e96096da8bf6f9 503
+gateway/src/ingress/http_pool.rs
+  h_e96096da8bf6f9 25-27,41,109,204,217,221,226,229,248,290,300-309,328,340-341,380,391,575-640
+gateway/src/ingress/server/processing_tests.rs
+  h_e96096da8bf6f9 5-6,147-185,193-194,196-237,244-246,258,261,279-301,304-312,318-323,338-343,359-364,389-471
+gateway/src/node/route_control.rs
+  h_e96096da8bf6f9 37,76,318,321-322,331-367,397
+gateway/src/node/server.rs
+  h_e96096da8bf6f9 110-130
+gateway/src/node/server/tests.rs
+  h_e96096da8bf6f9 240-342
+platform/adxlet/src/controller/lifecycle.rs
+  h_e96096da8bf6f9 253-283,312-325,327-330,408-422,452,517
+platform/adxlet/src/lib.rs
+  h_e96096da8bf6f9 265-270
+platform/adxlet/src/routes.rs
+  h_e96096da8bf6f9 21,75-136,302-321,328,330,333,335,357
+platform/adxlet/tests/pause_resume.rs
+  h_e96096da8bf6f9 26,48-50,119-120,277-294,2783-2906
+platform/adxlet/tests/routes.rs
+  h_e96096da8bf6f9 598-764
+platform/api/http/node-upgrades.md
+  h_e96096da8bf6f9 17-38
+platform/api/proto/node.proto
+  h_e96096da8bf6f9 18-22,26
+platform/coordinator/src/rpc/resume.rs
+  h_e96096da8bf6f9 3,139-195,218,220,223-233
+platform/coordinator/src/rpc/upgrade.rs
+  h_e96096da8bf6f9 330-339
+platform/coordinator/src/rpc/upgrade/tests.rs
+  h_e96096da8bf6f9 1756-1899
+platform/coordinator/src/storage.rs
+  h_e96096da8bf6f9 13
+platform/coordinator/src/storage/resume.rs
+  h_e96096da8bf6f9 4-11,34-35,37-50,64-68,77-87,99,123
+platform/coordinator/src/storage/upgrade.rs
+  h_e96096da8bf6f9 71-79,173-209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7a28eff6c3b4545ca11a3fee2cbafdba2872f738",
+  "prompts": {},
+  "humans": {
+    "h_e96096da8bf6f9": {
+      "author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
