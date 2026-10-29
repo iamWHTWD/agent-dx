@@ -1,0 +1,36 @@
+gateway/src/ingress/http_pool.rs
+  s_a3812cd013d54e::t_3a97ed3c4f36c3 49,59-60,70,154-157,175,182-183,188,192,210-212,214,227,230,235,238,242-250,305-307,327-328,377,389,391-393,515-649,661,687-698,757
+gateway/src/ingress/route_store.rs
+  s_a3812cd013d54e::t_f2f381cf1b8322 3,5,10-11,17-22,27-28,41,64-65,67,82,87-88,90,98,101-102,104-105,107-110,117-124,165,170-181,183,203-255,258-313
+  s_a3812cd013d54e::t_162cce73e99812 256-257
+gateway/src/ingress/server/route_recovery_tests.rs
+  s_a3812cd013d54e::t_f54450697029d2 4,335-728
+  s_a3812cd013d54e::t_9bf04f3e575cfb 729-778
+gateway/src/ingress/resolver.rs
+  s_a3812cd013d54e::t_6b3cc332d5a50d 234-247,395,433-473,475
+  s_a3812cd013d54e::t_b7274d59c36604 474,476-482
+gateway/README.md
+  s_a3812cd013d54e::t_0dce4ea2673363 101-113
+gateway/src/common/route.rs
+  s_a3812cd013d54e::t_1e8fbd6d00b217 194-197,199-201
+gateway/src/ingress/server.rs
+  s_a3812cd013d54e::t_402ecd023fdd28 637-662,734-737,751-752,1879,1884-1961,2286-2287,2491
+gateway/src/ingress/server/processing_tests.rs
+  s_a3812cd013d54e::t_0c588a7b8ed40c 196-197,202-210,212-215,457-458,460-461
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8da02b3a81e26694197ac8563fc1eada0c565f5",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
