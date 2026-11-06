@@ -1,0 +1,27 @@
+gateway/src/node/route_control.rs
+  s_a3812cd013d54e::t_b2a0ebdbda2275 160,162-166
+  s_a3812cd013d54e::t_a7162e3606fe40 473
+  s_a3812cd013d54e::t_2f2339503e81c8 472,474-476,479-487,489-558,560-706
+  s_a3812cd013d54e::t_1ff2865751ff5d 488
+  s_a3812cd013d54e::t_b100c527eb4d57 477-478,559
+platform/sdk/environment/python/tests/test_transport_direct.py
+  s_a3812cd013d54e::t_92e193812ebee9 1621-1682,2025-2026
+platform/api/proto/node.proto
+  s_a3812cd013d54e::t_3a7131b26ed1e2 48-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e5b9513b3b170f2e644805b6eb25aaa24fd6d6a",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
