@@ -1,0 +1,34 @@
+platform/api/http/node-upgrades.md
+  s_cb5bc6f9f3633a::t_f0fdaea9b9e1b0 56,76,83-88
+  s_cb5bc6f9f3633a::t_893b350fed313c 89
+platform/adxlet/src/upgrade.rs
+  s_cb5bc6f9f3633a::t_248b4b1bae0f93 183-186,299,370
+  s_cb5bc6f9f3633a::t_20c183a61c20cf 372-375
+platform/adxlet/tests/upgrade_control.rs
+  s_cb5bc6f9f3633a::t_248b4b1bae0f93 57-70
+platform/coordinator/src/rpc/resume.rs
+  s_cb5bc6f9f3633a::t_248b4b1bae0f93 342-349
+platform/coordinator/src/storage/upgrade.rs
+  s_cb5bc6f9f3633a::t_248b4b1bae0f93 133,138-145,150-152
+  s_cb5bc6f9f3633a::t_20c183a61c20cf 146-149
+platform/coordinator/src/rpc/upgrade.rs
+  s_cb5bc6f9f3633a::t_20c183a61c20cf 1447-1462,1464-1465
+  s_cb5bc6f9f3633a::t_248b4b1bae0f93 304,386-388,397,407,423,684,1079
+  s_cb5bc6f9f3633a::t_f0fdaea9b9e1b0 401-402,1098,1395-1400,1463,1466-1468,1473
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d03f1cf6507986504aec8d1f629b0c0c47931eeb",
+  "prompts": {},
+  "sessions": {
+    "s_cb5bc6f9f3633a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bf0f-8a65-7c82-98e4-c163d5b53e84",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
