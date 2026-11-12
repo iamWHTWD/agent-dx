@@ -1,0 +1,117 @@
+platform/coordinator/src/rpc/resume.rs
+  s_1528de8ce556a0::t_e2890d4901a582 176,322
+platform/coordinator/src/rpc.rs
+  s_1528de8ce556a0::t_e2890d4901a582 5,42-55,940,946,958,960,966,970,1195,1201,1213,1215,1220,1224,1365,1382,1436-1440,1456,1505,1507-1513,1517-1518,1533-1535,2586
+Cargo.lock
+  s_1528de8ce556a0::t_72f5fdb96f40b2 18
+afs/src/meta/rpc/dfs.rs
+  s_1528de8ce556a0::t_147ef1aea0234e 45-46
+afs/src/node/chunk/reader.rs
+  s_1528de8ce556a0::t_93712557949dd2 38-40,391-411
+afs/src/node/chunk/store.rs
+  s_1528de8ce556a0::t_a5b13095e4c254 765-785,811,870
+afs/src/node/gc/mod.rs
+  s_1528de8ce556a0::t_61521b8e3b0a31 20
+afs/src/node/gc/references.rs
+  s_1528de8ce556a0::t_04eb4b657e49e9 102-172,175-176,183-223,305,334-369,394
+afs/src/node/read/engine/local.rs
+  s_1528de8ce556a0::t_7e0169bc2c57fd 146
+afs/src/node/read/engine/tests.rs
+  s_1528de8ce556a0::t_59db92e22c3632 2066-2164
+afs/src/node/vfs/dfs/commit.rs
+  s_1528de8ce556a0::t_7bf20a829c09ef 413-419
+afs/src/node/vfs/dfs/commit_prepare.rs
+  s_1528de8ce556a0::t_0d2445f2c3941e 233-242
+afs/src/node/vfs/dfs/tests/write_pipeline_ops.rs
+  s_1528de8ce556a0::t_513fadf73631e8 1715-1992
+afs/src/node/vfs/dfs/write_pipeline_ops.rs
+  s_1528de8ce556a0::t_24791e6204fb22 307-310,314,840,845-852,926-934,952-956
+agent/README.md
+  s_1528de8ce556a0::t_c43bafe3f0dc02 270
+agent/activator/Cargo.toml
+  s_1528de8ce556a0::t_f9d32caf3da1ee 13
+agent/activator/README.md
+  s_1528de8ce556a0::t_80c5cc939f02d4 9-10,71,174,182-189
+agent/activator/src/creation.rs
+  s_1528de8ce556a0::t_706405284bbf13 1-2,42,50,189,220-259
+agent/activator/src/environment_request.rs
+  s_1528de8ce556a0::t_42d119c62fbf82 110,208-217
+agent/activator/src/transport.rs
+  s_1528de8ce556a0::t_4ce8c03e796152 253-263
+agent/activator/tests/environment_request.rs
+  s_1528de8ce556a0::t_f525fa4b78e922 30
+agent/activator/tests/local_environment.rs
+  s_1528de8ce556a0::t_1e12b7a8cf2c93 72
+agent/activator/tests/scheduling_retry.rs
+  s_1528de8ce556a0::t_0addb8a3f919ed 22,53-55,448-496
+agent/activator/tests/terminal_transport.rs
+  s_1528de8ce556a0::t_347b1bc8af3ddb 1-96
+agent/crates/store/src/aliases.rs
+  s_1528de8ce556a0::t_f852ab796e524f 285-287,294,322
+crates/error/src/lib.rs
+  s_1528de8ce556a0::t_0ae11e02c04a55 9-13
+docs/architecture/afs-support-boundary.md
+  s_1528de8ce556a0::t_869f4cb3de47b3 85
+docs/architecture/afs.md
+  s_1528de8ce556a0::t_442946a559cbc6 229-230
+docs/testing/apiserver.md
+  s_1528de8ce556a0::t_8f45380b12f05a 33-34
+gateway/apiserver/docs/environment-lifecycle-api.md
+  s_1528de8ce556a0::t_575f8e6e5b1b3e 280-299
+gateway/apiserver/src/activator.rs
+  s_1528de8ce556a0::t_4c89516f7fca5b 82-86,134-156
+gateway/apiserver/src/environment_service.rs
+  s_1528de8ce556a0::t_0d51e4eb104501 399-435,542,584-585,656,661-663,667,987,991,998,1005-1022,1043
+gateway/apiserver/src/operations.rs
+  s_1528de8ce556a0::t_44666fd5004e95 504-515
+gateway/apiserver/tests/create_replay.rs
+  s_1528de8ce556a0::t_4b8a8e6b34a459 140,145-274
+gateway/apiserver/tests/support/create_fixture.rs
+  s_1528de8ce556a0::t_1dee4657ee222e 171
+platform/adxlet/src/rpc.rs
+  s_1528de8ce556a0::t_0a86f2d1b779e1 131-140,655-659
+platform/adxlet/src/rpc/local_create.rs
+  s_1528de8ce556a0::t_aad55e343d37cf 234-238,241,243-245,260-267
+platform/api/http/environment-create.md
+  s_1528de8ce556a0::t_0a0e5b22e8808d 18-25,27-31,42-45
+platform/api/http/error-contract.md
+  s_1528de8ce556a0::t_8d7c887e681413 25
+platform/api/proto/README.md
+  s_1528de8ce556a0::t_7ceee348b59473 191-198,202,204-243
+platform/api/proto/environment.proto
+  s_1528de8ce556a0::t_96e3e18ca7f156 165-166
+platform/api/proto/environment_types.proto
+  s_1528de8ce556a0::t_c2da03a14b9ca7 243-245
+platform/coordinator/src/routes.rs
+  s_1528de8ce556a0::t_5dcb440bc1651b 451
+platform/coordinator/src/rpc/claims.rs
+  s_1528de8ce556a0::t_a44d0692532775 150,257,266,270-272,278,283,287,439,500-504
+platform/coordinator/src/storage/publication.rs
+  s_1528de8ce556a0::t_73c987f960bad9 23-33,58,60-61,63,67,69,144,151,163,367
+platform/coordinator/tests/rpc.rs
+  s_1528de8ce556a0::t_8a0c741c24fb54 599,656
+platform/coordinator/tests/rpc/create_identity.rs
+  s_1528de8ce556a0::t_f68d206f498394 1-125
+platform/coordinator/tests/rpc/local_first.rs
+  s_1528de8ce556a0::t_e228708e85eb5c 3-5,162,226,263-266,271,1101-1125,2201,2361,2406-2420
+platform/coordinator/tests/storage/publication_regressions.rs
+  s_1528de8ce556a0::t_42d0d34303e0be 229-241,310-312
+platform/crates/protocol/src/lib.rs
+  s_1528de8ce556a0::t_a80e6b27f602e7 377-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f01d45371aaa7ad76cd6a75b5488a44247120eec",
+  "prompts": {},
+  "sessions": {
+    "s_1528de8ce556a0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ce76-6b4b-73b0-a870-97f6b219fc80",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
