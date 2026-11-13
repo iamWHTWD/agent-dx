@@ -1,0 +1,32 @@
+platform/sdk/environment/python/README.md
+  s_d30d7c72c9bd0f::t_f56b093616ca0b 359-360
+gateway/README.md
+  s_d30d7c72c9bd0f::t_43305b5c2a56ce 148-151
+gateway/src/ingress/server/processing_tests.rs
+  s_d30d7c72c9bd0f::t_6a1f4cd3865ecd 48-50,52-54,64,178-180,336-338,354-358,394-397,399,407-408
+  s_d30d7c72c9bd0f::t_21761f88e7a9bf 181
+  s_d30d7c72c9bd0f::t_e13b84f62690d7 412-415,420,463
+  s_d30d7c72c9bd0f::t_024140e8c76d3f 376-379
+  s_d30d7c72c9bd0f::t_313418d0e4b666 47,51,177,197-214,216-217,220,339-353,359-363,365-375,380-384,386-393,398,400-402,404-406,409-411,416-419,421-437,439-462
+  s_d30d7c72c9bd0f::t_ba646b9accf760 215,218-219,364,385,403,438
+platform/api/http/runtime-data.md
+  s_d30d7c72c9bd0f::t_43305b5c2a56ce 69-72
+gateway/src/ingress/server.rs
+  s_d30d7c72c9bd0f::t_f4b3a0cc6d75a3 46-49,1118-1121,1123,2079-2087,2230-2239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "209db3aea344eea614eb0b4c82f32244336d14a9",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
