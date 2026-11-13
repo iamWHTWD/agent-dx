@@ -1,0 +1,32 @@
+platform/coordinator/tests/storage/node_retirement.rs
+  s_1528de8ce556a0::t_1667fe66f7481a 77-79
+  s_1528de8ce556a0::t_3f74a7067bfece 70-76,80-147
+platform/coordinator/src/storage/node_retirement.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 14-15,69,140-143,150,159
+  s_1528de8ce556a0::t_1667fe66f7481a 144-149
+docs/deployment/coordinator-autoscaling.md
+  s_1528de8ce556a0::t_6d1e728962b6f5 70-77
+platform/adxlet/src/bin/adxlet.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 1,392-401
+platform/coordinator/src/storage.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 31-32,143-156,160-166,169-172,1624,1631,1636,1678-1684
+  s_1528de8ce556a0::t_1667fe66f7481a 157-159,167-168,1546-1549,1632-1635
+platform/crates/core/src/scheduling.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b8179dc1b0873657b16aefa119b4bb2fa4f6febd",
+  "prompts": {},
+  "sessions": {
+    "s_1528de8ce556a0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ce76-6b4b-73b0-a870-97f6b219fc80",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+platform/adxlet/src/checkpoint.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 5,37-38,42
+build/e2e/tests/test_soak_memory.py
+  s_a3812cd013d54e::t_7fdaa590be3171 1-38
+platform/adxlet/tests/lifecycle.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 382,396,408-411,438
+platform/coordinator/tests/storage/checkpoint_contention.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 1-150
+platform/coordinator/src/storage/publication.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 187-189
+platform/adxlet/tests/pause_resume/publication_budget.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 1-159
+platform/coordinator/src/storage.rs
+  s_a3812cd013d54e::t_dc34ad0f516294 833-839,841
+  s_a3812cd013d54e::t_7fdaa590be3171 23-24,824,828,843,897,2333-2335,2341,2374
+platform/adxlet/tests/reconciliation.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 543-595
+  s_a3812cd013d54e::t_4e27b3fb544932 542
+platform/coordinator/tests/storage.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 5-6
+build/e2e/soak_memory.py
+  s_a3812cd013d54e::t_7fdaa590be3171 1-109
+platform/coordinator/src/storage/artifacts.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 38-57,175,242-250
+build/e2e/README.md
+  s_a3812cd013d54e::t_7fdaa590be3171 415-461
+platform/sdk/environment/python/README.md
+  s_a3812cd013d54e::t_7fdaa590be3171 220-222,737-750
+  s_a3812cd013d54e::t_c7103e29c27826 751
+build/e2e/soak_acceptance.py
+  s_a3812cd013d54e::t_7fdaa590be3171 9,13,20-21,24-29,43,71-79,92-95,97-112,117-124,136-142,157-173,176-180,193,236,273-288,298-311,328-330
+platform/coordinator/src/rpc/snapshots.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 113-117
+platform/api/openapi/data-plane.yaml
+  s_a3812cd013d54e::t_7fdaa590be3171 856-864,959-961
+platform/coordinator/src/storage/checkpoint_cleanup.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 53,89-91,98
+platform/coordinator/src/storage/volumes.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 775,797,818
+platform/sdk/environment/python/pyproject.toml
+  s_a3812cd013d54e::t_7fdaa590be3171 7
+platform/adxlet/src/controller/snapshots.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 310-319
+.buildkite/README.md
+  s_a3812cd013d54e::t_7fdaa590be3171 241,243-244
+platform/coordinator/src/storage/checkpoint_contention_tests.rs
+  s_a3812cd013d54e::t_1cfe007e4108ae 221-224
+  s_a3812cd013d54e::t_aaecc201345ba2 161
+  s_a3812cd013d54e::t_93fa85ea25fec0 135-144,150-160,162-172,183-187,193-198,211-220,225-228
+  s_a3812cd013d54e::t_7fdaa590be3171 1-134,229-400
+  s_a3812cd013d54e::t_bb8334f5abac98 145-149,173-182,188-192,199-210
+platform/runtime/execd/README.md
+  s_a3812cd013d54e::t_7fdaa590be3171 35-47
+docs/testing/snapshot-storage.md
+  s_a3812cd013d54e::t_7fdaa590be3171 9-36,195
+docs/testing/test-strategy.md
+  s_a3812cd013d54e::t_7fdaa590be3171 4,10-11,32,38,633,709,713-810,821,824,847,899,988
+build/e2e/soak_sdk.py
+  s_a3812cd013d54e::t_7fdaa590be3171 55-56,63-65
+platform/adxlet/src/controller.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 904-905
+build/e2e/soak_probe.py
+  s_a3812cd013d54e::t_7fdaa590be3171 18-20,139,146,159,169-170,179-180,185-186
+platform/sdk/environment/python/adx_environment/commands.py
+  s_a3812cd013d54e::t_7fdaa590be3171 143-186,293,295,314-337,356-357,377,558-559,565,640-642,645-647
+gateway/apiserver/tests/create_replay.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 8,28
+platform/adxlet/src/rpc.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 1138,1140-1142,1155-1156
+platform/coordinator/src/rpc/checkpoint_cleanup.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 66-77
+docs/testing/environment-checkpoint.md
+  s_a3812cd013d54e::t_7fdaa590be3171 88-89
+platform/sdk/environment/python/tests/unit/test_command_result_consistency.py
+  s_a3812cd013d54e::t_7fdaa590be3171 1-245
+docs/testing/sandbox-observability-validation.md
+  s_a3812cd013d54e::t_7fdaa590be3171 3,8-29
+  s_a3812cd013d54e::t_2816b7555a2d36 30
+platform/coordinator/src/storage/observability.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 410-412,418-434
+  s_a3812cd013d54e::t_45229c26a5c1be 435
+gateway/apiserver/tests/support/create_fixture.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 1-676,679-691
+  s_a3812cd013d54e::t_dc34ad0f516294 677-678
+platform/coordinator/src/storage/snapshots.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 43-44,62-69,104-108
+docs/testing/test-strategy.html
+  s_a3812cd013d54e::t_7fdaa590be3171 8-9,24,30,282,309,311-344,347-348,365,392,439
+gateway/apiserver/src/environment_service.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 5,71-72,88-89,245,301,373,382-383,403-404,420,518,720-806
+  s_a3812cd013d54e::t_a0fad14292ed4a 807
+docs/testing/failed-environment-gc.md
+  s_a3812cd013d54e::t_7fdaa590be3171 24,49,52
+docs/development/python-checks.md
+  s_a3812cd013d54e::t_7fdaa590be3171 34-36
+platform/coordinator/src/rpc/checkpoint_gc_tests.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 1-207
+platform/coordinator/src/rpc.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 2827
+  s_a3812cd013d54e::t_d25ee935fc754c 2826
+build/e2e/soak.py
+  s_a3812cd013d54e::t_7fdaa590be3171 65-66,102-104,121,130-133,188-191,193-206,233-234,240,283-284,293-297,301,309-310,320-321,386,388-389,399,403-406,409-410,417-419,425,427
+gateway/apiserver/src/metrics.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 104,107-109,168-176,210,444-449,452-454,464-465
+platform/runtime/execd/src/runtime/cmd.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 44-144,587-591,594-601,606-608,628,630,636,674-678,687,692,699,1059-1089,1092,1094-1107,1243-1376
+  s_a3812cd013d54e::t_47ccab20760e70 1377
+build/e2e/soak-contracts/warmup-hour-v4.json
+  s_a3812cd013d54e::t_7fdaa590be3171 1-123
+build/e2e/tests/test_soak_warmup.py
+  s_a3812cd013d54e::t_7fdaa590be3171 1-182
+platform/adxlet/tests/pause_resume.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 17-19,1276
+docs/testing/sandbox-observability.md
+  s_a3812cd013d54e::t_7fdaa590be3171 28-32,37,52,66-67,81-83
+platform/coordinator/tests/storage/observability.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 3-29,60-90
+platform/api/http/runtime-data.md
+  s_a3812cd013d54e::t_7fdaa590be3171 84-96
+platform/coordinator/tests/storage/counter_compaction.rs
+  s_a3812cd013d54e::t_7fdaa590be3171 298-302,324-328,360
+platform/sdk/environment/python/uv.lock
+  s_a3812cd013d54e::t_28efc6d7dfb9f6 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "16bce5bd79d649965bbcffca4660c4b9a45aa7a7",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}

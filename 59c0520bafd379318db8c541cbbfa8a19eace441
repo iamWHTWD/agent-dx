@@ -1,0 +1,41 @@
+third_party/sandboxd/sandbox-api.proto
+  s_d30d7c72c9bd0f::t_a091795428af92 276-277
+platform/adxlet/tests/jiuwenbox_runtime.rs
+  s_d30d7c72c9bd0f::t_a312a3aaf58b6a 327-340,342-346,378
+third_party/sandboxd/README.md
+  s_d30d7c72c9bd0f::t_02a6024cc9501b 4,11-13
+docs/deployment/runtime-environment.md
+  s_d30d7c72c9bd0f::t_a1d872475e75d1 53
+  s_d30d7c72c9bd0f::t_a091795428af92 54
+platform/adxlet/tests/runtime_profile.rs
+  s_d30d7c72c9bd0f::t_a1d872475e75d1 47
+  s_d30d7c72c9bd0f::t_a091795428af92 36,52,57-112
+  s_d30d7c72c9bd0f::t_2d15cc4334c22d 37-46,48-51,53-56,113-114
+third_party/sandboxd/source.json
+  s_d30d7c72c9bd0f::t_1f28d4ed817bf0 3
+  s_d30d7c72c9bd0f::t_a99b8a36fac5b8 8
+platform/adxlet/src/jiuwenbox/mod.rs
+  s_d30d7c72c9bd0f::t_d1884b21fedf56 541-542
+  s_d30d7c72c9bd0f::t_1f28d4ed817bf0 540
+platform/adxlet/src/sandboxd.rs
+  s_d30d7c72c9bd0f::t_d1884b21fedf56 601-608
+  s_d30d7c72c9bd0f::t_a477ef5fbf517f 600
+  s_d30d7c72c9bd0f::t_1f28d4ed817bf0 609-617,645-649
+  s_d30d7c72c9bd0f::t_a091795428af92 654-661,930
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59c0520bafd379318db8c541cbbfa8a19eace441",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

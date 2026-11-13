@@ -1,0 +1,41 @@
+platform/crates/core/src/scheduling.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 6-8
+platform/coordinator/tests/storage/node_retirement.rs
+  s_1528de8ce556a0::t_1667fe66f7481a 77-79
+  s_1528de8ce556a0::t_3f74a7067bfece 70-76,80-131,148-149
+  s_1528de8ce556a0::t_3a4370f24e4b03 132-147
+docs/deployment/coordinator-autoscaling.md
+  s_1528de8ce556a0::t_3a4370f24e4b03 74-75,78-105
+  s_1528de8ce556a0::t_6d1e728962b6f5 70-73,76-77
+platform/coordinator/src/storage/node_retirement.rs
+  s_1528de8ce556a0::t_6d1e728962b6f5 14-15,69,140-143,150,159
+  s_1528de8ce556a0::t_1667fe66f7481a 144-149
+  s_1528de8ce556a0::t_f052f6db1c3568 198-202
+platform/coordinator/src/storage.rs
+  s_1528de8ce556a0::t_3a4370f24e4b03 144-150,163-177,180-190,1813-1819
+  s_1528de8ce556a0::t_6d1e728962b6f5 31-32,143,151-156,160-162,191-194,197-200,1652,1659,1664,1706-1712
+  s_1528de8ce556a0::t_f052f6db1c3568 178-179
+  s_1528de8ce556a0::t_1667fe66f7481a 157-159,195-196,1574-1577,1660-1663
+platform/adxlet/src/bin/adxlet.rs
+  s_1528de8ce556a0::t_f052f6db1c3568 121-124
+  s_1528de8ce556a0::t_033fb7ed0d2adb 21,25-27,117-120,125-132,414-423
+  s_1528de8ce556a0::t_409f0c202dd0d4 650-681
+  s_1528de8ce556a0::t_6d1e728962b6f5 1,413,424
+  s_1528de8ce556a0::t_a43ac9b090b0ab 133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc297c9bd924830bbe821ecaefdc63be968ff218",
+  "prompts": {},
+  "sessions": {
+    "s_1528de8ce556a0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ce76-6b4b-73b0-a870-97f6b219fc80",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": null
+    }
+  }
+}

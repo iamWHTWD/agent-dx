@@ -1,0 +1,217 @@
+build/e2e/tests/test_multivm_stop.py
+  s_a3812cd013d54e::t_90490cb87974c0 73
+platform/adxlet/src/controller/lifecycle.rs
+  s_a3812cd013d54e::t_90490cb87974c0 9-37,341-348,350-356,362-389,395,402,431-432,434-435,438,453,458-462,629,645-648,671,687-691,704-705,724-725,763-768,770-772,791-792,795,842-850,876-884,890,893,911-925,949,956-957,972,974-977,979,1014
+build/e2e/jiuwenbox/host_recovery.py
+  s_a3812cd013d54e::t_90490cb87974c0 67,177-180,208
+platform/adxlet/tests/node_reconciliation.rs
+  s_a3812cd013d54e::t_90490cb87974c0 14-40,343-372,375,377-380,396-397
+platform/adxlet/tests/reconciliation.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1163
+platform/adxlet/tests/upgrade_control.rs
+  s_a3812cd013d54e::t_90490cb87974c0 19-23,25,27,29-31,35-36,40,45
+platform/coordinator/tests/on_demand.rs
+  s_a3812cd013d54e::t_90490cb87974c0 3-6,35,61-63,84-86,306-312,1863
+platform/coordinator/tests/rpc/local_first.rs
+  s_a3812cd013d54e::t_90490cb87974c0 378
+platform/adxlet/src/sandboxd/recovery.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-266
+platform/adxlet/src/runtime_router.rs
+  s_a3812cd013d54e::t_90490cb87974c0 19-25,86-92
+build/e2e/tests/test_node_cleanup.py
+  s_a3812cd013d54e::t_90490cb87974c0 13-19
+docs/deployment/e2b-compatibility.md
+  s_a3812cd013d54e::t_90490cb87974c0 70,177
+platform/coordinator/tests/storage.rs
+  s_a3812cd013d54e::t_90490cb87974c0 28-29,357,599,1137,1231,1475-1492,1501,1504,1506,1513,1609
+platform/crates/core/src/checkpoint.rs
+  s_a3812cd013d54e::t_90490cb87974c0 68-70
+platform/coordinator/src/rpc.rs
+  s_a3812cd013d54e::t_90490cb87974c0 273-303,307-310,344-355,2722-2724
+platform/adxlet/src/bin/adxlet.rs
+  s_a3812cd013d54e::t_90490cb87974c0 73-74,134-135,256,320,322-323,325,347,360-364,553-569,572-574
+build/config/examples/deployment-ingress-api.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 8
+docs/deployment/standalone.md
+  s_a3812cd013d54e::t_90490cb87974c0 177,186
+platform/adxlet/src/controller/workload_checkpoint.rs
+  s_a3812cd013d54e::t_90490cb87974c0 170-179,351
+platform/adxlet/src/local.rs
+  s_a3812cd013d54e::t_90490cb87974c0 18-20,61-62
+platform/adxlet/tests/pause_resume.rs
+  s_a3812cd013d54e::t_439796bc958520 1978
+  s_a3812cd013d54e::t_5e5b7893623390 2106,2130
+  s_a3812cd013d54e::t_b7d4481c8ea4e8 1980-1981
+  s_a3812cd013d54e::t_90490cb87974c0 19-20,30,50,54-56,85-92,225-228,242-252,350-359,361-376,380,396-399,1975-1977,1979,1982-1999,2004,2020,2059-2105,2107-2129,2131-2285,2316,2332
+platform/deployment/src/cli.rs
+  s_a3812cd013d54e::t_90490cb87974c0 2,49-54,104-105
+platform/coordinator/src/recovery_tests.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-123
+platform/deployment/src/main.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1,3,6-13
+platform/crates/checkpoint-storage/src/filesystem.rs
+  s_a3812cd013d54e::t_90490cb87974c0 20,73,76,85-89,94-97,145-190,221-223,236,274,310,391-416
+platform/deployment/tests/config.rs
+  s_a3812cd013d54e::t_90490cb87974c0 18-71
+gateway/src/node/server/tests.rs
+  s_a3812cd013d54e::t_90490cb87974c0 237-327
+  s_a3812cd013d54e::t_8dd2f4ed62e673 236
+build/config/examples/README.md
+  s_a3812cd013d54e::t_90490cb87974c0 52,104
+  s_a3812cd013d54e::t_f0b4fc633d10eb 105
+platform/deployment/tests/process.rs
+  s_a3812cd013d54e::t_90490cb87974c0 2,18,102-126,179-185,226-232,252-293,325-331,335-341,373-379,435-441,474-481,529-536,595-602,660-666,714-720
+build/config/examples/afs/deployment-ownerfs-local.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 9
+platform/api/proto/environment.proto
+  s_a3812cd013d54e::t_90490cb87974c0 178
+platform/adxlet/tests/pause_resume/upgrade_idle.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-119
+platform/adxlet/src/rpc.rs
+  s_a3812cd013d54e::t_90490cb87974c0 332,820-821
+platform/api/http/node-upgrades.md
+  s_a3812cd013d54e::t_90490cb87974c0 7-11,21-32,44-45,47,60,72,83,93-95,102-112,115,117-121,135-140,163,174-175
+platform/coordinator/tests/common/mounts.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-21
+docs/testing/snapshot-storage.md
+  s_a3812cd013d54e::t_90490cb87974c0 46-48,67,78-79
+platform/deployment/src/supervisor.rs
+  s_a3812cd013d54e::t_90490cb87974c0 2,30,37-43,50-56,62-98,107,139,164-171,241-257,279-292,294-318,322-329,331-358,360-369,415,440,497,529-531,535,547,552-553,559,570,573,577-578,582,585,589-590
+README.md
+  s_a3812cd013d54e::t_90490cb87974c0 165-166
+platform/coordinator/tests/volumes.rs
+  s_a3812cd013d54e::t_5289aa83acccd2 747-773
+  s_a3812cd013d54e::t_90490cb87974c0 2-3,651-652,672,678,1747
+docs/testing/process-deployment.md
+  s_a3812cd013d54e::t_90490cb87974c0 13,29,42-44,50-52,96,102-106
+platform/deployment/tests/cli.rs
+  s_a3812cd013d54e::t_90490cb87974c0 7-14
+  s_a3812cd013d54e::t_fd05989de61bfc 6
+docs/testing/apiserver.md
+  s_a3812cd013d54e::t_90490cb87974c0 57
+platform/coordinator/src/storage/upgrade.rs
+  s_a3812cd013d54e::t_90490cb87974c0 38,51-109,112-113,120-137
+docs/testing/firecracker-cross-node.md
+  s_a3812cd013d54e::t_90490cb87974c0 3-4
+platform/coordinator/src/storage.rs
+  s_a3812cd013d54e::t_90490cb87974c0 23
+platform/coordinator/src/rpc/recovery.rs
+  s_a3812cd013d54e::t_90490cb87974c0 13-83,86,110-121,171,229-304,327-432,434-559,562-586
+  s_a3812cd013d54e::t_83dd391dcd1f96 305-326,433,560-561
+platform/coordinator/tests/storage/artifact_lifecycle.rs
+  s_a3812cd013d54e::t_90490cb87974c0 49,250
+platform/crates/protocol/tests/records.rs
+  s_a3812cd013d54e::t_90490cb87974c0 133-136,254
+platform/api/proto/node.proto
+  s_a3812cd013d54e::t_90490cb87974c0 18-20
+platform/coordinator/tests/support/recovery_profile.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-25
+platform/adxlet/src/proxy.rs
+  s_a3812cd013d54e::t_90490cb87974c0 13-19,76-118
+  s_a3812cd013d54e::t_6b07a7752ecbe5 119
+platform/crates/protocol/src/lib.rs
+  s_a3812cd013d54e::t_90490cb87974c0 251-284,457-459,486-496,534,564
+platform/adxlet/src/rpc/local_create.rs
+  s_a3812cd013d54e::t_90490cb87974c0 93
+platform/api/proto/environment_types.proto
+  s_a3812cd013d54e::t_90490cb87974c0 359
+docs/testing/recovery-discovery.md
+  s_a3812cd013d54e::t_90490cb87974c0 113-121
+build/e2e/firecracker/node.py
+  s_a3812cd013d54e::t_90490cb87974c0 338-340
+platform/coordinator/tests/rpc.rs
+  s_a3812cd013d54e::t_90490cb87974c0 4-5,8-9,3493-3498,3539-3621,3624-3625,3633,3646-3701,3705-3711,3716-3723,3799,3810,3812-3819,3858,3866,3876,3887-3896,3898-3908,3928-3971,3982-4000
+platform/adxlet/src/lib.rs
+  s_a3812cd013d54e::t_90490cb87974c0 162-169,421,433-435,514,539,544,556,695-712,737-738,861-863
+build/config/examples/deployment-node.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 8,39-41
+docs/testing/node-failure-takeover.md
+  s_a3812cd013d54e::t_90490cb87974c0 13-14,29-31
+  s_a3812cd013d54e::t_2e2cdd87b91a31 32
+build/config/examples/deployment-coordinator.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 8
+docs/architecture/repository-layout.html
+  s_a3812cd013d54e::t_90490cb87974c0 15,121
+platform/coordinator/src/rpc/upgrade.rs
+  s_a3812cd013d54e::t_90490cb87974c0 46-93,141,143,285-286,306,346,411-414,464-487,491,674,688,800,820-822,1052-1055,1074,1163-1164,1168-1189,1191-1198,1201-1203,1338,1368,1370-1372,1375-1381,1383-1395,1461-1539
+gateway/README.md
+  s_a3812cd013d54e::t_90490cb87974c0 117-118,126-128
+platform/coordinator/tests/storage/checkpoint_cleanup.rs
+  s_a3812cd013d54e::t_90490cb87974c0 40,236
+platform/coordinator/tests/storage/publication_regressions.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1,17,21-23,26-30,32,41,52,93,99
+platform/deployment/src/config.rs
+  s_a3812cd013d54e::t_90490cb87974c0 53-71,178-179,270-271,886-888
+platform/coordinator/tests/storage/dormancy.rs
+  s_a3812cd013d54e::t_90490cb87974c0 20-21,32,38,235,321,353-358,360-361,369,378,516-531,569-587
+docs/testing/environment-checkpoint.md
+  s_a3812cd013d54e::t_90490cb87974c0 30-31,56,66-67,73
+platform/adxlet/src/proxy_shutdown_tests.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-273
+platform/adxlet/src/node_reconciliation.rs
+  s_a3812cd013d54e::t_90490cb87974c0 69-74,79-82
+platform/deployment/tests/shutdown.rs
+  s_a3812cd013d54e::t_90490cb87974c0 1-394
+platform/coordinator/src/lib.rs
+  s_a3812cd013d54e::t_75b8ebad5fdc9f 821,829
+  s_a3812cd013d54e::t_90490cb87974c0 13-14,250,253-254,262-291,329-348,367,371-374,780-820,822-828,830-844
+platform/adxlet/tests/reconciliation/isolation.rs
+  s_a3812cd013d54e::t_90490cb87974c0 101-133
+  s_a3812cd013d54e::t_ac01e11aa34292 100
+build/e2e/node.py
+  s_a3812cd013d54e::t_90490cb87974c0 180-183
+platform/coordinator/src/storage/checkpoint_contention_tests.rs
+  s_a3812cd013d54e::t_90490cb87974c0 166
+platform/coordinator/tests/rpc/environment_control.rs
+  s_a3812cd013d54e::t_90490cb87974c0 87
+build/e2e/example/run.py
+  s_a3812cd013d54e::t_90490cb87974c0 317,342
+platform/coordinator/tests/storage/observability.rs
+  s_a3812cd013d54e::t_90490cb87974c0 322
+build/config/examples/deployment-standalone-managed-redis.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 8
+build/ci/process_smoke.py
+  s_a3812cd013d54e::t_90490cb87974c0 116-117
+build/config/examples/deployment.yaml
+  s_a3812cd013d54e::t_90490cb87974c0 11
+build/e2e/jiuwenbox/full_sdk.py
+  s_a3812cd013d54e::t_90490cb87974c0 392,473-476,514-515
+platform/adxlet/src/upgrade.rs
+  s_a3812cd013d54e::t_90490cb87974c0 174,181-183,193,328-332,335,340,345-346,367,369,378,454-458,471,505,528
+build/e2e/firecracker/transfer.py
+  s_a3812cd013d54e::t_90490cb87974c0 432-433,447-448,458
+platform/coordinator/src/storage/recovery.rs
+  s_a3812cd013d54e::t_90490cb87974c0 4-92,193-207,266-267,282
+build/e2e/multivm/stop.py
+  s_a3812cd013d54e::t_90490cb87974c0 51
+docs/architecture/repository-layout.md
+  s_a3812cd013d54e::t_90490cb87974c0 24,186
+docs/testing/relay-process-modes.md
+  s_a3812cd013d54e::t_90490cb87974c0 40
+docs/deployment/adxctl.md
+  s_a3812cd013d54e::t_90490cb87974c0 62-64,87-91,103,116-117,121-122,285,334
+platform/adxlet/src/controller/snapshots.rs
+  s_a3812cd013d54e::t_90490cb87974c0 398
+platform/adxlet/src/sandboxd.rs
+  s_a3812cd013d54e::t_90490cb87974c0 18-19,28-29,41,67,135-142,207-218,231,1212-1235
+platform/api/http/error-contract.md
+  s_a3812cd013d54e::t_90490cb87974c0 203
+platform/coordinator/src/rpc/resume.rs
+  s_a3812cd013d54e::t_90490cb87974c0 262-267,269-279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "137e2a3dcf66642c2ead65d1d7a183809f0141d4",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}

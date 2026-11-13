@@ -1,0 +1,44 @@
+platform/adxlet/src/reconciliation/periodic_tests.rs
+  s_a3812cd013d54e::t_e32537f02bb8c9 120-138,142-144
+  s_a3812cd013d54e::t_405b4d511e8ba4 139-141
+  s_a3812cd013d54e::t_939c38e3908e53 119
+platform/adxlet/src/reconciliation/periodic.rs
+  s_a3812cd013d54e::t_a86796ab326509 394-395
+platform/coordinator/src/rpc/upgrade.rs
+  s_a3812cd013d54e::t_7bf7b1ec3e0858 1342
+  s_a3812cd013d54e::t_11024707e17a28 1341
+platform/coordinator/src/rpc.rs
+  s_a3812cd013d54e::t_11024707e17a28 358-361,364-365
+platform/api/http/node-upgrades.md
+  s_a3812cd013d54e::t_1d8dd7f426b1be 144-147
+  s_a3812cd013d54e::t_9fc9a9d6305bee 138-141
+  s_a3812cd013d54e::t_674787794e57bd 143
+  s_a3812cd013d54e::t_11024707e17a28 142
+platform/coordinator/tests/on_demand.rs
+  s_a3812cd013d54e::t_531b0d6f3535d5 652-653,683-686
+  s_a3812cd013d54e::t_107655ff89ad8e 7-8,572-581,620-650
+  s_a3812cd013d54e::t_992598f626f8ba 80,97-100,668,676
+platform/coordinator/tests/on_demand/stream_continuity.rs
+  s_a3812cd013d54e::t_7bf7b1ec3e0858 103-112,118,259-263,265,267,269,271-272,278,280,282-287,292
+  s_a3812cd013d54e::t_43668b65f09db7 15,119-127,237,266,268,270,273-277,279,288-291,300-315,324-329
+  s_a3812cd013d54e::t_531b0d6f3535d5 1-14,16-102,113-117,128-236,238-258,264,281,293-299,316-323,330-347
+platform/adxlet/src/local.rs
+  s_a3812cd013d54e::t_9aaecc7be4134c 37,42-43,45
+  s_a3812cd013d54e::t_04f2ff5c521a1e 46-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "353c74b45e161b5353ce69a625483c6d55078b01",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
