@@ -1,0 +1,26 @@
+platform/adxlet/tests/reconciliation/recovery_phases.rs
+  s_cbc5809b78fc64::t_182de48f32699b 215-218,223-232,236-238,262-265,274-279
+  s_cbc5809b78fc64::t_aabbf9c063c68a 200-202,204-214,219-222,233-235,239-251,266-273,280-285
+  s_cbc5809b78fc64::t_89fcdb29b6e2c1 203
+  s_cbc5809b78fc64::t_df9e0ddd4f47df 252-261
+  s_cbc5809b78fc64::t_248df4f745cf1f 199
+platform/adxlet/tests/routes.rs
+  s_cbc5809b78fc64::t_de85c530b36cb1 355,357,711,720-722,732,780-784,789,797-800,817-820
+  s_cbc5809b78fc64::t_21f3e0119a46ac 330,385-391,405,707-710,712-719,723-731,733-779,785-788,790-796,801-816,821
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d4275015da4e877482bf7acd4b7e3adfdae224b",
+  "prompts": {},
+  "sessions": {
+    "s_cbc5809b78fc64": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aa10-3731-7771-845e-e5778d80741b",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
