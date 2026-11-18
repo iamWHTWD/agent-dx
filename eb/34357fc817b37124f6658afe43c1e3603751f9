@@ -1,0 +1,53 @@
+.buildkite/source-gate.sh
+  s_9b09f9dfa8b043::t_4792c0c721bc9f 39-41
+build/release/tests/test_obs.py
+  s_9b09f9dfa8b043::t_6e1b018cdb6fa7 53-55,57,63,69-84,89-98,102-103,106,108-114,129-133,135-136,147
+  s_9b09f9dfa8b043::t_a6a15d43629723 41,47,52,56,58-62
+  s_9b09f9dfa8b043::t_1a1c7721240cec 2,9,11,115,118,127-128,134,137-146
+  s_9b09f9dfa8b043::t_2e3a421811006b 85-88,99-101,104-105,107,116-117,119-126
+build/runtime/rootfs.py
+  s_9b09f9dfa8b043::t_93c0c97fba61d3 46,49-50,55
+  s_9b09f9dfa8b043::t_a6a15d43629723 9,21,252,258
+  s_9b09f9dfa8b043::t_80cd7d7957c7f1 97-98,101,240,248-250,253-257,259
+  s_9b09f9dfa8b043::t_204e4c44f2a49b 80-84,94-95,251
+  s_9b09f9dfa8b043::t_4c908bc8432f76 16,19,22-23,47-48,51-54,56-79,85-93,96,99-100,102-105,209,219-220,222-223,227,230-239,241-243,247,262-264,284,288,297-298,303-304
+  s_9b09f9dfa8b043::t_2601895d375584 224-226,228-229
+build/runtime/tests/test_rootfs.py
+  s_9b09f9dfa8b043::t_dd2c8d5224bf64 60-62,66-67,88,90,107,114-115,117,180
+  s_9b09f9dfa8b043::t_c60fb3cc080ccd 8,10,59,63-65,68-76,78-87,91-99,105,108-113,116,118-128,134-179
+  s_9b09f9dfa8b043::t_0ce8f161469eee 77,89,100-104,106,129-133
+.buildkite/build-component.sh
+  s_9b09f9dfa8b043::t_1a1c7721240cec 78-82,84-85
+  s_9b09f9dfa8b043::t_4c908bc8432f76 69-70,73-74,88
+  s_9b09f9dfa8b043::t_43ffc52208a45d 71-72,75-77,83,86-87
+.buildkite/README.md
+  s_9b09f9dfa8b043::t_93c0c97fba61d3 69-71,76
+  s_9b09f9dfa8b043::t_80cd7d7957c7f1 79,82
+  s_9b09f9dfa8b043::t_43ffc52208a45d 64-68,72-75,77-78,80-81
+.buildkite/upload-obs.sh
+  s_9b09f9dfa8b043::t_93c0c97fba61d3 126-134
+build/release/obs_upload.py
+  s_9b09f9dfa8b043::t_a6a15d43629723 7,15,180,188,243,247,250,304-305,309
+  s_9b09f9dfa8b043::t_c9c09e68d3fcba 10-11,21-25,132-148,150,159,163-166,176-178,181,184-187,189-190,222-242,244-246,248-249,251-252,289,310-311,314-315
+  s_9b09f9dfa8b043::t_2601895d375584 149,151-158,160-162,169-170,172
+  s_9b09f9dfa8b043::t_93c0c97fba61d3 167-168,171,173-175,179,182-183,253-258,267-268,312-313
+  s_9b09f9dfa8b043::t_2e3a421811006b 259-266
+.buildkite/pipeline-package.yml
+  s_9b09f9dfa8b043::t_43ffc52208a45d 537-539,556-558
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eb34357fc817b37124f6658afe43c1e3603751f9",
+  "prompts": {},
+  "sessions": {
+    "s_9b09f9dfa8b043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed0c-e0a2-7ef2-8d8d-c6bdaac7d15e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
