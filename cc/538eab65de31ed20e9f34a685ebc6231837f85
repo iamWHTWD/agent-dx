@@ -1,0 +1,23 @@
+build/runtime/rootfs.py
+  s_9b09f9dfa8b043::t_ac8956f8265cba 258-260
+build/release/obs_upload.py
+  s_9b09f9dfa8b043::t_ac8956f8265cba 230-235,253,256,309,311-312
+build/release/tests/test_obs.py
+  s_9b09f9dfa8b043::t_ac8956f8265cba 138-139,148-152,221-224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cc538eab65de31ed20e9f34a685ebc6231837f85",
+  "prompts": {},
+  "sessions": {
+    "s_9b09f9dfa8b043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed0c-e0a2-7ef2-8d8d-c6bdaac7d15e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
