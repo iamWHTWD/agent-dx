@@ -1,0 +1,21 @@
+.buildkite/build-component.sh
+  s_9b09f9dfa8b043::t_b22d177573422d 69-75,78-79,87
+.buildkite/README.md
+  s_9b09f9dfa8b043::t_b22d177573422d 82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2fb089ffbfc53115d17d8eb0ffee4c301164c79d",
+  "prompts": {},
+  "sessions": {
+    "s_9b09f9dfa8b043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed0c-e0a2-7ef2-8d8d-c6bdaac7d15e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
