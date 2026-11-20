@@ -1,0 +1,23 @@
+platform/coordinator/tests/on_demand.rs
+  s_a3812cd013d54e::t_7d6fbd5f8b388a 91,133-145,262,268,306-318,388
+platform/coordinator/tests/on_demand/retarget.rs
+  s_a3812cd013d54e::t_7d6fbd5f8b388a 294,300,307,311-324,335,351,359,381-413,487-492
+platform/coordinator/src/rpc/upgrade.rs
+  s_a3812cd013d54e::t_732980afe00438 1439,1444-1447,1469-1471
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fdca6be89db68725400a0c30bc6eac348c5e1eb6",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
