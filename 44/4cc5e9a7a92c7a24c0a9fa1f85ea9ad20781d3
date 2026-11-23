@@ -1,0 +1,19 @@
+build/runtime/tests/test_rootfs.py
+  s_9b09f9dfa8b043::t_728385de72c2b7 101-102,104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "444cc5e9a7a92c7a24c0a9fa1f85ea9ad20781d3",
+  "prompts": {},
+  "sessions": {
+    "s_9b09f9dfa8b043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed0c-e0a2-7ef2-8d8d-c6bdaac7d15e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
