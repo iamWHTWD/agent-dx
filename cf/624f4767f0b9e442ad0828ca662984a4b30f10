@@ -1,0 +1,23 @@
+platform/api/http/node-upgrades.md
+  s_a3812cd013d54e::t_112ab5e3f2198c 80-84,226-228
+platform/coordinator/src/storage/upgrade.rs
+  s_a3812cd013d54e::t_60fe47a41da54f 501-526,529-532,538-540
+  s_a3812cd013d54e::t_dc7ff2cc8ea1f8 527-528,533-537
+  s_a3812cd013d54e::t_bb402e2e08829f 500
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "cf624f4767f0b9e442ad0828ca662984a4b30f10",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
