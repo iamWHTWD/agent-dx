@@ -1,0 +1,39 @@
+platform/coordinator/src/storage/upgrade.rs
+  s_a3812cd013d54e::t_5feac322a95489 177,182-192,196-197
+  s_a3812cd013d54e::t_fb2feed8bade07 179,193-195,200-205,210
+  s_a3812cd013d54e::t_143896d254ece4 198-199
+platform/coordinator/src/rpc/upgrade.rs
+  s_a3812cd013d54e::t_ad4d35c9a4c495 30,304-305,423-424,580,1406,1413,1453,1619,1622,1679,1691,1694-1695,1773,1840,1852
+  s_a3812cd013d54e::t_09bbf92edd6ed7 1357-1359,1361-1362,1371-1377
+  s_a3812cd013d54e::t_fb2feed8bade07 1363-1370,1620-1621,1692-1693
+  s_a3812cd013d54e::t_14a87338928561 1360
+platform/api/http/node-upgrades.md
+  s_a3812cd013d54e::t_b313ce3e4965d5 217-218,223-230
+platform/coordinator/src/storage/resume.rs
+  s_a3812cd013d54e::t_5feac322a95489 79-89,92,96-98
+  s_a3812cd013d54e::t_fb2feed8bade07 90-91,93-95
+platform/coordinator/tests/on_demand/retarget.rs
+  s_a3812cd013d54e::t_ff14e0b5cd6011 335-338,378-385,389-397,425-428
+  s_a3812cd013d54e::t_24fd717b6af488 367-368
+  s_a3812cd013d54e::t_0524dd3ce78444 369
+  s_a3812cd013d54e::t_ccd33eab1cf3da 663-664
+  s_a3812cd013d54e::t_892a0466c5be27 18-19,307,350-366,370-371,430,646-655,659-662,665-668,682,698,707-712
+  s_a3812cd013d54e::t_ef85d636edb7dd 20-29,303-306,308-334,339-349,372-377,386-388,398-424,429
+  s_a3812cd013d54e::t_86d3b252b8c81a 431
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7f5ac89492ade939e2f46d6dcb558030e840efc2",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
