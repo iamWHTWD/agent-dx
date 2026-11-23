@@ -1,0 +1,25 @@
+platform/coordinator/src/rpc/upgrade.rs
+  s_a3812cd013d54e::t_8e562ef473674d 669,677,681,694,713-715
+platform/coordinator/tests/on_demand/source_session.rs
+  s_a3812cd013d54e::t_ee7d28ea28fc0b 8-17,99-102,105-106,114,122-142,147-148,161-165,180-182,187-197,211-215,229-231
+  s_a3812cd013d54e::t_c1300f6cc8a7c3 103-104,107-113,115-121,143-146,149-160,166,183-186,198-210,216-228
+  s_a3812cd013d54e::t_ea7655e6f5ec97 232
+platform/api/http/node-upgrades.md
+  s_a3812cd013d54e::t_515b63514734d5 255-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b02f991cbe242a524dd7a8190bedb4ad5737d988",
+  "prompts": {},
+  "sessions": {
+    "s_a3812cd013d54e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a167bf-f21f-7162-b623-da7daeda4712",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
