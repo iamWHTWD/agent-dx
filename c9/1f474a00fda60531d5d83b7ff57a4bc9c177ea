@@ -1,0 +1,23 @@
+.buildkite/README.md
+  s_9b09f9dfa8b043::t_8ba9ec6bc57091 77-79
+build/runtime/rootfs.py
+  s_9b09f9dfa8b043::t_8ba9ec6bc57091 15,21,96-97,106-107,256-257
+build/runtime/tests/test_rootfs.py
+  s_9b09f9dfa8b043::t_6d14907cdf6e9f 16,89,96,98,102,138-150,174-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c91f474a00fda60531d5d83b7ff57a4bc9c177ea",
+  "prompts": {},
+  "sessions": {
+    "s_9b09f9dfa8b043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed0c-e0a2-7ef2-8d8d-c6bdaac7d15e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
