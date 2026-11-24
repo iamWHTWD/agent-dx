@@ -1,0 +1,26 @@
+platform/sdk/environment/python/tests/unit/test_file_download_budget.py
+  s_d30d7c72c9bd0f::t_681fd2c7ab5be7 91,95,362-373
+  s_d30d7c72c9bd0f::t_c5e39955f8d4f8 92-94,96-107,115,313-361,374-384
+platform/sdk/environment/python/README.md
+  s_d30d7c72c9bd0f::t_82848b1a563407 704-713
+platform/sdk/environment/python/adx_environment/filesystem.py
+  s_d30d7c72c9bd0f::t_c8aba82d1d2cf8 362-363,367-368,414-417
+platform/sdk/environment/python/adx_environment/_transport.py
+  s_d30d7c72c9bd0f::t_2e277e0c4f65ba 1447,1451-1453,1471-1472,1474-1475,1493,1505-1511,1578-1579,1586-1587
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "93e2187ac9561158e8ff07230dbcaa8ab10b37b4",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
