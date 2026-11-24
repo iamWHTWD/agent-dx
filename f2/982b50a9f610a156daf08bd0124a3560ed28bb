@@ -1,0 +1,32 @@
+platform/sdk/environment/python/adx_environment/commands.py
+  s_d30d7c72c9bd0f::t_5a3ef18cadba9c 14,418,491,495
+  s_d30d7c72c9bd0f::t_b4f5ded2223d70 15,31,362-393,486-488
+platform/sdk/environment/python/tests/unit/test_file_download_budget.py
+  s_d30d7c72c9bd0f::t_2b417a286a81ce 219-237
+platform/sdk/environment/python/README.md
+  s_d30d7c72c9bd0f::t_d240bb21188d25 720,842
+  s_d30d7c72c9bd0f::t_761ad8a71d0fd8 721-723,843-845
+platform/sdk/environment/python/tests/unit/test_command_wait_activity.py
+  s_d30d7c72c9bd0f::t_65e43f736e9329 201-202,216-220,222-223,226-228,230,234,238-239,242,252
+  s_d30d7c72c9bd0f::t_6b22964fd09703 4-5,203-215,221,229,231-233,235-237,240-241,243-251,253
+  s_d30d7c72c9bd0f::t_6da08eb4c383e4 224-225
+  s_d30d7c72c9bd0f::t_678975957b53cd 254-255
+platform/sdk/environment/python/adx_environment/_transport.py
+  s_d30d7c72c9bd0f::t_121bd8deb39fd3 1251-1255,1257-1261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f2982b50a9f610a156daf08bd0124a3560ed28bb",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
