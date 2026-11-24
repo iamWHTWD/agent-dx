@@ -1,0 +1,19 @@
+platform/sdk/environment/python/tests/unit/test_file_download_budget.py
+  s_d30d7c72c9bd0f::t_d75de621b126d9 5,16,18,220-225,227-229,231-232,234-235,237,240-241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "79223ed10f81150fd7d8b21b82abb894964f73e1",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
