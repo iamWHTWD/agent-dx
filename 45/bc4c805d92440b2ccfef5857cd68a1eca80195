@@ -1,0 +1,43 @@
+platform/sdk/environment/python/tests/unit/test_file_download_budget.py
+  s_d30d7c72c9bd0f::t_575bbedb243bd3 143-145,147-149,151-152,154-155,161,168-176,178-186,264-281,283-298
+  s_d30d7c72c9bd0f::t_c3293947b58ec6 177
+  s_d30d7c72c9bd0f::t_ce9809ad4e9361 205-215,217-219
+  s_d30d7c72c9bd0f::t_a89aca693729f6 216
+  s_d30d7c72c9bd0f::t_5c1cfbf0eb150f 64-69,81,87
+  s_d30d7c72c9bd0f::t_c77c098f3c5f09 1-2,4-63,70-80,82-86,88-134,159,162,167,189-204,220-263,282
+  s_d30d7c72c9bd0f::t_2b6713951c2c32 3,135-142,146,158
+  s_d30d7c72c9bd0f::t_1bbcc0df0501b1 150
+  s_d30d7c72c9bd0f::t_2d49c49928a854 153
+  s_d30d7c72c9bd0f::t_a7979c67de80b3 156-157
+  s_d30d7c72c9bd0f::t_f976867e869786 160
+  s_d30d7c72c9bd0f::t_43466ede05b303 163-166
+  s_d30d7c72c9bd0f::t_5dcdac5256514c 187-188
+platform/sdk/environment/python/adx_environment/_transport.py
+  s_d30d7c72c9bd0f::t_b6177bd8929ef8 1215-1219,1249-1257,1560
+  s_d30d7c72c9bd0f::t_73f547095a0cf7 1197-1198,1473-1476,1479,1502-1503,1507-1508
+  s_d30d7c72c9bd0f::t_46a35c4c311d87 31,1158-1168,1194-1196,1199-1203,1209-1210,1225-1226,1242-1247,1472,1477-1478,1486,1489-1491,1494,1496,1498-1501,1514-1537,1541-1555,1558-1559,1561-1563,1569-1570
+  s_d30d7c72c9bd0f::t_463a771f0a74f8 1469-1471,1538-1540,1564-1566,1571-1573
+  s_d30d7c72c9bd0f::t_eb20755111cf58 1248
+platform/sdk/environment/python/README.md
+  s_d30d7c72c9bd0f::t_9356e5a882a95c 363-366,711-720,723-726
+  s_d30d7c72c9bd0f::t_3c0edbfb95fa22 721-722
+  s_d30d7c72c9bd0f::t_25d8cced925a1e 727
+platform/sdk/environment/python/adx_environment/filesystem.py
+  s_d30d7c72c9bd0f::t_9808e49a6cd174 411
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "45bc4c805d92440b2ccfef5857cd68a1eca80195",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "wanghongtao.wangho <wanghongtao.wangho@antgroup.com>"
+    }
+  }
+}
