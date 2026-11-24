@@ -1,0 +1,33 @@
+platform/sdk/environment/python/tests/unit/test_command_wait_activity.py
+  s_d30d7c72c9bd0f::t_9990baee33d2c5 7,9,114-140
+  s_d30d7c72c9bd0f::t_7a4a98d878b741 141-151
+  s_d30d7c72c9bd0f::t_3f3992bf5ddde5 80
+  s_d30d7c72c9bd0f::t_47e92e9db72b47 98-113,152-165
+platform/sdk/environment/python/adx_environment/commands.py
+  s_d30d7c72c9bd0f::t_7d554aac4bba07 399,405,420-422
+  s_d30d7c72c9bd0f::t_df55c60c224278 304-305,330,336,350-351,366,374-375,383-384,392-393,400-403,437-438,458-459,461,476-477
+platform/sdk/environment/python/README.md
+  s_d30d7c72c9bd0f::t_2176bb4017df5a 375-377,818-820
+  s_d30d7c72c9bd0f::t_1dc9831240a1d1 821-827
+platform/sdk/environment/python/adx_environment/_transport.py
+  s_d30d7c72c9bd0f::t_5199d632c3d295 913,1074,1077
+  s_d30d7c72c9bd0f::t_8fd536a7847796 1063
+  s_d30d7c72c9bd0f::t_9d5436cb73ea37 835,841-842,858-860,873,877
+  s_d30d7c72c9bd0f::t_19f1299f1c7b41 1064
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5a23c866393e77d57cbc7042b2dcf371314f7c0a",
+  "prompts": {},
+  "sessions": {
+    "s_d30d7c72c9bd0f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a185c4-700d-7943-93ba-7afc7f48005b",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": null
+    }
+  }
+}
